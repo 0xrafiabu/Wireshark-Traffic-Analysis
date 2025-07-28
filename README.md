@@ -38,7 +38,7 @@ Each attack was examined with custom Wireshark filters and visually documented w
 
 ## 📄 Full Report
 
-🔗 [Download the PDF Report](./Wirshark%20.pdf)
+🔗 [Download the PDF Report](./Wireshark_DoS_DDoS_Analysis.pdf)
 
 Includes diagrams, filtered packet views, technical explanations, and real mitigation recommendations.
 
